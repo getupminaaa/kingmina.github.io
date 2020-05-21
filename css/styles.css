@@ -10298,7 +10298,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   .timeline:before {
-    left: 50%;
+    left: 10%;
   }
   .timeline > li {
     min-height: 100px;
@@ -10306,12 +10306,12 @@ header.masthead .masthead-heading {
   }
   .timeline > li .timeline-panel {
     float: left;
-    width: 41%;
+    width: 81%;
     padding: 0 20px 20px 30px;
     text-align: right;
   }
   .timeline > li .timeline-image {
-    left: 50%;
+    left: 10%;
     width: 100px;
     height: 100px;
     margin-left: -50px;
