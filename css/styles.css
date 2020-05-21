@@ -9980,13 +9980,11 @@ p {
   }
 }
 ::-moz-selection {
-  background: #fed136;
-  text-shadow: none;
+  background: #365870;
 }
 
 ::selection {
-  background: #fed136;
-  text-shadow: none;
+  background: #365870;
 }
 
 img::-moz-selection {
